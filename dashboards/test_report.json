@@ -1,0 +1,43 @@
+{
+  "total_tests": 5,
+  "passed": 5,
+  "failed": 0,
+  "results": [
+    {
+      "test": 1,
+      "status": "pass",
+      "message": "",
+      "output": "dashboards/demo_feature_vis.html",
+      "time_taken": 132.49162006378174
+    },
+    {
+      "test": 2,
+      "status": "pass",
+      "message": "",
+      "output": "dashboards/demo_feature_vis_custom.html",
+      "time_taken": 51.89373993873596
+    },
+    {
+      "test": 3,
+      "status": "pass",
+      "message": "",
+      "output": "dashboards/demo_prompt_vis.html",
+      "time_taken": 130.6564815044403
+    },
+    {
+      "test": 4,
+      "status": "pass",
+      "message": "",
+      "output": "dashboards/demo_othello_vis.html",
+      "time_taken": 49.32613825798035
+    },
+    {
+      "test": 5,
+      "status": "pass",
+      "message": "",
+      "output": "dashboards/demo_feature_vis_attn2l.html",
+      "time_taken": 14.339502573013306
+    }
+  ],
+  "timestamp": 1739513687.186291
+}
